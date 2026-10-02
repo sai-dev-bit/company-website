@@ -144,11 +144,11 @@ const Footer = () =>
               <h3 className="text-xl font-semibold text-[#7b104c]">Get In Touch</h3>
               <div className="space-y-2">
                 <a
-                  href="mailto:info@gwingsoftwaretechnologies.online"
+                  href="mailto:info@gwingtech.com"
                   className="flex items-center space-x-2 text-gray-600 hover:text-[#7b104c] transition-colors duration-300"
                 >
                   <Mail size={18} />
-                  <span>info@gwingsoftwaretechnologies.online</span>
+                  <span>info@gwingtech.com</span>
                 </a>
                 <p className="text-gray-600">
                   Ready to start your digital transformation journey? Contact us today.
